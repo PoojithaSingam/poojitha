@@ -14,8 +14,7 @@
 <td>HaripriyaJupally</td>
 </tr>
 <tr>
-<th></th>
-<td>Poojitha Singam<td>
+<td>Poojitha Singam</td>
 </tr>
 </table>
 </body>
